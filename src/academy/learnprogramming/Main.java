@@ -8,5 +8,8 @@ public class Main {
         char myUnicodeChar = '\u0044';
         System.out.println("myChar is " + myChar);
         System.out.println("myUnicodeChar is " + myUnicodeChar);
+
+        char myCopyrightChar = '\u00A9';
+        System.out.println("myCopyrightChar is " + myCopyrightChar);
     }
 }
