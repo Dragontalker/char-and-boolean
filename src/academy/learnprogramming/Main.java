@@ -11,5 +11,10 @@ public class Main {
 
         char myCopyrightChar = '\u00A9';
         System.out.println("myCopyrightChar is " + myCopyrightChar);
+
+        boolean myTrueBooleanValue = true;
+        boolean myFalseBooleanValue = false;
+        System.out.println("myTrueBooleanValue is " + myTrueBooleanValue);
+        System.out.println("myFalseBooleanValue is " + myFalseBooleanValue);
     }
 }
